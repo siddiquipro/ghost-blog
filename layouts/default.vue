@@ -3,7 +3,7 @@
     <header>
       <div class="container">
         <div class="navbar">
-          <nuxt-link to="/" class="logo">Gary Simon</nuxt-link>
+          <nuxt-link to="/" class="logo">Mohammad Siddiqui</nuxt-link>
 
           <nav>
             <ul>
